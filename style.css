@@ -223,3 +223,21 @@ footer {
     padding: 6rem 1.2rem 3rem;
   }
 }
+/* Contact Icons */
+.contact-icons {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.contact-icons a {
+  font-size: 1.6rem;
+  color: var(--dark);
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.contact-icons a:hover {
+  color: var(--primary);
+  transform: translateY(-3px);
+}
+
