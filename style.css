@@ -208,11 +208,11 @@ footer {
 @media (max-width: 768px) {
   nav ul {
     flex-wrap: wrap;
-    gap: 0.8rem;
+    gap: 2.1rem;
   }
 
   .hero h1 {
-    font-size: 2.1rem;
+    font-size:3rem;
   }
 
   .projects-grid {
@@ -223,3 +223,4 @@ footer {
     padding: 6rem 1.2rem 3rem;
   }
 }
+
