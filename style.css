@@ -1,7 +1,7 @@
 :root {
-  --primary: #2563eb;
-  --dark: #111827;
-  --muted: #6b7280;
+  --primary: #e794ce;
+  --dark: #f670d0;
+  --muted: #878086;
   --bg: #f9fafb;
   --card: #ffffff;
 }
@@ -240,5 +240,3 @@ footer {
   color: var(--primary);
   transform: translateY(-3px);
 }
-
-
